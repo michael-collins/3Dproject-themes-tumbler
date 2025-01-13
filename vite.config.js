@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/data-tumbler-googlesheets/',
+  base: '/3Dproject-themes-tumbler/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
